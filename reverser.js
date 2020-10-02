@@ -1,3 +1,1 @@
-var reverser = string => {
-    return string.split('').reverse().join('');
-}
+var reverser = string => string.split('').reverse().join('');
